@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-parallax-spring/static/css/main.073c9b0a.css",
+    "main.js": "/reactjs-parallax-spring/static/js/main.1c5148ad.js",
+    "static/media/bg.jpg": "/reactjs-parallax-spring/static/media/bg.6c298316df462e4b6cee.jpg",
+    "static/media/aws.svg": "/reactjs-parallax-spring/static/media/aws.0093955ed37514d27204650b6afd34eb.svg",
+    "static/media/stars.svg": "/reactjs-parallax-spring/static/media/stars.f7d6c318b39105ddf7b597dcc7c5c9b1.svg",
+    "static/media/earth.svg": "/reactjs-parallax-spring/static/media/earth.77dca499e7daab0fe486fb7abb2cbf59.svg",
+    "static/media/satellite4.svg": "/reactjs-parallax-spring/static/media/satellite4.1290f8ca1d4a735b0f862242392f738c.svg",
+    "static/media/satellite3.svg": "/reactjs-parallax-spring/static/media/satellite3.5de1f21aeb93b835ec346037a941cc79.svg",
+    "static/media/infra.svg": "/reactjs-parallax-spring/static/media/infra.6b7361f3c3c6eeec2788f45f6ecccbd2.svg",
+    "static/media/server.svg": "/reactjs-parallax-spring/static/media/server.6e1e97412643be2e0ca3406ef53230e2.svg",
+    "index.html": "/reactjs-parallax-spring/index.html",
+    "static/media/cloud.svg": "/reactjs-parallax-spring/static/media/cloud.b523f6268750c0c5a9465e219f376188.svg",
+    "main.073c9b0a.css.map": "/reactjs-parallax-spring/static/css/main.073c9b0a.css.map",
+    "main.1c5148ad.js.map": "/reactjs-parallax-spring/static/js/main.1c5148ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c5148ad.js"
+  ]
+}
