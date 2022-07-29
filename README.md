@@ -20,7 +20,7 @@ Material UI
  npm start
 ```
 
-[reactjs-parallax-spring](https://user-images.githubusercontent.com/16742524/181778195-1e104597-0c87-4357-a523-5c714bb8e0fb.webm)
+[reactjs-parallax-spring.webm](https://user-images.githubusercontent.com/16742524/181778671-686f5539-c8da-4dae-ab0a-e9a26a0731ca.webm)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
