@@ -20,7 +20,7 @@ Material UI
  npm start
 ```
 
-This site was built using GitHub Pages, please visit this [site](https://verge2015.github.io/reactjs-parallax-spring/) for actual demo.
+This site was deployed using GitHub Pages, please visit this [site](https://verge2015.github.io/reactjs-parallax-spring/) for actual site demo.
 
 
 [reactjs-parallax-spring.webm](https://user-images.githubusercontent.com/16742524/181778671-686f5539-c8da-4dae-ab0a-e9a26a0731ca.webm)
