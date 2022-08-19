@@ -1,6 +1,6 @@
 # reactjs-parallax-spring
 
-This is a single page static website using JavaScript framework ReactJS and packages like React-Spring for parallax effect and Material UI mainly for typography.
+This is a single page static website using JavaScript framework ReactJS and React-Spring package for parallax effect and Material UI just for typography.
 
 ## Packages
 ```bash
